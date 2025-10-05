@@ -24,7 +24,7 @@ class Main {
   /**
    * Defines the entry point of the program.
    *
-   * @param args Unused, for now.
+   * @param args Unused.
    */
   public static void main(String[] args) {}
 }
