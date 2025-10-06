@@ -1,5 +1,5 @@
 // Imports the Scanner class.
-import java.util.Scanner;
+// import java.util.Scanner;
 
 /**
 * Explain what your program does.
