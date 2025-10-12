@@ -8,7 +8,7 @@
 * @version 1.0
 * @since   Year-Month-Day
 */
-class Main {
+public final class Main {
   /**
    * Creates a private constructor
    * to satisfy the style checker.
@@ -26,5 +26,8 @@ class Main {
    *
    * @param args Unused.
    */
-  public static void main(String[] args) {}
+  public static void main(final String[] args) {
+    // Creates a new instance of the Scanner class.
+    // final Scanner inputScanner = new Scanner(System.in);
+  }
 }
