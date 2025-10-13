@@ -2,12 +2,12 @@
 // import java.util.Scanner;
 
 /**
-* Explain what your program does.
-*
-* @author  Joseph Wondimagnehu
-* @version 1.0
-* @since   Year-Month-Day
-*/
+ * Explain what your program does.
+ *
+ * @author  Joseph Wondimagnehu
+ * @version 1.0
+ * @since   Year-Month-Day
+ */
 public final class Main {
   /**
    * Creates a private constructor
